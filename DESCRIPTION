@@ -1,0 +1,27 @@
+Package: ratbrain
+Type: Package
+Title: Functions to segment and register cells from microscopic image files with R
+Version: 0.1.1
+Date: 2020-06-12
+Author: Aniruddha Shekara - Daniel Fürth <furth@cshl.edu> - @wholebrainsuite
+Maintainer: Daniel Fürth <furth@cshl.edu>
+Description: Rat neuroanatomy for R. 
+License: GPL-3
+NeedsCompilation: yes
+Imports: 
+	Rcpp (>= 0.11.0), 
+	png, 
+	MASS, 
+	grImport, 
+	sp, 
+	rgl, 
+	misc3d, 
+	plyr,
+	ROpenCVLite (>= 0.1.34.1)
+LinkingTo: Rcpp
+Remotes: github::swarm-lab/ROpenCVLite
+Depends: Rcpp (>= 0.11.0), png, MASS, grImport, sp, rgl, misc3d, plyr
+Suggests: plotrix (>= 3.5-12), knitr
+LazyData: no
+Encoding: UTF-8
+RoxygenNote: 6.1.0
