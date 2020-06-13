@@ -1,0 +1,38 @@
+id,acronym,name,parent,swanson.acronym,swanson.name,allen.id,allen.acronym,allen.name,allen.color,volume
+1000000000000000,root,root,NA,,,NA,,,,1
+1111022110100000,OB,olfactory bulb,1000000000000000,MOB,Main olfactory bulb,507,MOB,Main olfactory bulb,#9AD2BD,1
+1111022110101000,Gl,glomerular layer olfactory bulb,1111022110100000,MOBgl,"Main olfactory bulb, glomerular layer",212,MOBgl,"Main olfactory bulb, glomerular layer",#82C7AE,1
+1111022110102000,EPl,external plexiform layer olfactory bulb,1111022110100000,MOBopl,"Main olfactory bulb, outer plexiform layer",244,MOBopl,"Main olfactory bulb, outer plexiform layer",#9AD2BD,1
+1111022110103000,Mi,mitral cell layer olfactory bulb,1111022110100000,MOBmi,"Main olfactory bulb, mitral layer",236,MOBmi,"Main olfactory bulb, mitral layer",#82C7AE,1
+1111022110104000,IPl,internal plexiform layer olfactory bulb,1111022110100000,MOBipl,"Main olfactory bulb, inner plexiform layer",228,MOBipl,"Main olfactory bulb, inner plexiform layer",#9AD2BD,1
+1111022110105000,GrO,granular cell layer olfactory bulb,1111022110100000,MOBgr,"Main olfactory bulb, granule cell layer",220,MOBgr,"Main olfactory bulb, granule cell layer",#82C7AE,1
+1111022110201000,GlA,glomerular layer accessory olfactory bulb,1111022110200000,AOBgl,"Accessory olfactory bulb, glomerular layer",188,AOBgl,"Accessory olfactory bulb, glomerular layer",#9DF0D2,1
+1111022110203000,GrA,granule cell layer accessory olfactory bulb,1111022110200000,AOBgr,"Accessory olfactory bulb, granular layer",196,AOBgr,"Accessory olfactory bulb, granular layer",#95E4C8,1
+1111022110202000,MiA,mitral cell layer of the accessory olfactory bulb,1111022110200000,AOBmi,"Accessory olfactory bulb, mitral layer",204,AOBmi,"Accessory olfactory bulb, mitral layer",#9DF0D2,1
+1111222020102100,AOD,"anterior olfactory nu, dorsal",1111222020202000,,,167,AONd,"Anterior olfactory nucleus, dorsal part",#54BF94,1
+1111222020102200,AOL,"anterior olfactory nu, lateral",1111222020202000,,,183,AONl,"Anterior olfactory nucleus, lateral part",#54BF94,1
+1111222020102300,AOM,"anterior olfactory nu, medial",1111222020202000,,,191,AONm,"Anterior olfactory nucleus, medial part",#54BF94,1
+1111222020102400,AOV,"anterior olfactory nu, ventral",1111222020202000,,,NA,,,,1
+1111222020102500,AOVP,"anterior olfactory nu, ventroposterior",1111222020202000,,,199,AONpv,"Anterior olfactory nucleus, posteroventral part",#54BF94,1
+1111222020200000,AOE,"anterior olfactory nu, external",1111222020202000,AOAe,"Anterior olfactory area, external part",175,AONe,"Anterior olfactory nucleus, external part",#54BF94,1
+1100000000000000,iso,isocortex,1000000000000000,,,NA,,,,1
+1111222000000000,FrA,frontal association cortex,1100000000000000,FRO,Frontal Region,184,FRP,"Frontal pole, cerebral cortex",#268F45,1
+1111022260200000,M2,secondary motor cortex,1100000000000000,Mos,Secondary Motor Area,993,MOs,Secondary Motor Area,#1F9D5A,1
+1111022220200000,DLO,dorsolateral orbital cortex,1100000000000000,Aid,"Agranular Insular Area, dorsal part",104,AId,"Agranular Insular Area, dorsal part",#219866,1
+1111222150400000,LO,lateral orbital cortex,1100000000000000,ORBl,"Orbital Area, lateral part",723,ORBl,"Orbital Area, lateral part",#248A5E,1
+1111222150300000,MO,medial orbital cortex,1100000000000000,ORBm,"Orbital area, medial part",731,ORBm,"Orbital area, medial part",#248A5E,1
+1111222150100000,VO,ventral orbital cortex,1100000000000000,ORBv,"Orbital area, ventral part",738,ORBv,"Orbital area, ventral part",#248A5E,1
+1111022190000000,PrL,prelimbic cortex,1100000000000000,PL,Prelimbic area,972,PL,Prelimbic area,#2FA850,1
+1200000000000000,tct,tracts,1000000000000000,,,NA,,,,1
+2113200060101000,aci,"anterior commissural, intrabulbar",1200000000000000,aco,Olfactory limb of anterior commissure,900,aco,"anterior commissure, olfactory limb",#CCCCCC,1
+2113200030000000,lo,lateral olfactory tract,1200000000000000,lot,lateral olfactory tract,665,Lot,"lateral olfactory tract, body",#CCCCCC,1
+1300000000000000,vtcl,ventricles,1000000000000000,,,NA,,,,1
+4500011000000000,OV,olfactory ventricle,1300000000000000,Vlo,olfactory ventricle,89,RC,rhinocele,#AAAAAA,1
+4500000030000000,E,ependyma and subependymal layer,1300000000000000,E,Ependyma,NA,,,,1
+4500011030000000,E/OV,ependymal and subependymal layer/olfactory ventricle,1300000000000000,,,,,,,1
+1400000000000000,grv,grooves,1000000000000000,,,NA,,,,1
+3113000070100000,rf,rhinal fissure,1400000000000000,Rhs,Rhinal sulcus,1071,rf,rhinal fissure,#AAAAAA,1
+3113000070200000,ri,rhinal incisure,1400000000000000,ri,Rhinal incisure,1078,ri,rhinal incisure,#AAAAAA,1
+1500000000000000,art,artery,1000000000000000,,,NA,,,,1
+1510000000000000,lofr,lateral orbitofrontal artery,1500000000000000,,,NA,,,,1
+1520000000000000,mofr,medial orbitofrontal artery,1500000000000000,,,NA,,,,1
